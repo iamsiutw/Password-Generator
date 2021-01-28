@@ -11,5 +11,5 @@
 ### 使用技術：
 1. HTML
 2. CSS
-3. Javacript
+3. JavaScript
 4. Bootstrap 5
